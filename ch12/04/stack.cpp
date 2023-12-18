@@ -109,6 +109,5 @@ Stack & Stack::operator=(const Stack &st)
             rear = temp;
         }
     }
-
     return *this;
 }
