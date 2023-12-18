@@ -101,8 +101,6 @@ std::istream & operator>>(std::istream & is, complex0 & c)
         std::cout << "imaginary: ";
         is >> c.img;
     }
-    
-
     return is;
 }
 
