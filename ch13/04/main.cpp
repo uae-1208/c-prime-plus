@@ -1,4 +1,5 @@
-#include "vintageport.h"
+#include "port.h"
+#include "VintagePort.h"
 
 int main()
 {
